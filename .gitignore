@@ -1,0 +1,22 @@
+# --- Archivos de IntelliJ (Ignoramos la carpeta entera para evitar conflictos) ---
+.idea
+*.idea
+.idea/
+*.iml
+
+# --- Salida de compilación (MUY IMPORTANTE) ---
+out/
+target/
+build/
+
+# --- Configuración específica que ya tenías ---
+/shelf/
+/workspace.xml
+/queries/
+/dataSources/
+/dataSources.local.xml
+/httpRequests/
+
+# --- Otros ---
+.DS_Store
+Thumbs.db
