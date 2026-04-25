@@ -10,7 +10,7 @@
         <relativePath/> </parent>
 
     <groupId>com.ecomerch</groupId>
-    <artifactId>api-service</artifactId>
+    <artifactId>AE04_EcoMerch_Rest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ecomerch-rest</name>
     <description>Servicio REST para EcoMerch S.A.</description>
